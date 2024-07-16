@@ -1,0 +1,12 @@
+/*
+This is the legendary beginning of my css 
+*/
+ *{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+.main{
+    color: red;
+    font-size: 30px;
+}
